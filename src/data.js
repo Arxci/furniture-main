@@ -50,20 +50,20 @@ export const navigation = [
 ];
 
 export const hero = {
-  title: 'Creative Home Simpify your Furniture',
+  title: 'Make your Home Creative. Simpify your Furniture',
   subtitle:
-    'Do i have consent to record this meeting gain locaion, root-and-branch, review, nor game plan who’s the goto',
+    'The worlds leading go to for creative, cheap furniture. We promise to create, and sell quality products to everyone.',
   buttonText: 'Shop Now',
 };
 
 export const stats = [
   {
     value: '7',
-    text: 'Year Experience',
+    text: 'Years Experience',
   },
   {
     value: '2',
-    text: 'Opened in the country',
+    text: 'Locations opened in the country',
   },
   {
     value: '10k+',
@@ -71,35 +71,35 @@ export const stats = [
   },
   {
     value: '260+',
-    text: 'Variant Furniture',
+    text: 'Types of Furniture',
   },
 ];
 
 export const features = {
   image: <Features1Img />,
-  title: 'We Create your home more aesthetic',
+  title: 'We make your home more aesthetic',
   subtitle:
-    'Furniture power is a software as services for multipurpose business management system',
+    'Shop with us to make mouths drop when they see your home',
   buttonText: 'Show Now',
   items: [
     {
       icon: <IoIosCheckmarkCircle />,
-      title: 'Valuation Services',
+      title: 'Cheap Prices',
       subtitle:
-        'Sometimes features require a short description.  This can be detailed description',
+        'We offer record cheap prices, while still offering quality products',
     },
     {
       icon: <IoIosCheckmarkCircle />,
-      title: 'Development of Furniture Models',
+      title: 'Ergonomic Design',
       subtitle:
-        'Sometimes features require a short description.  This can be detailed description',
+        'We make ergonomic furniture designed for your every need.',
     },
   ],
   feature2: {
     image: <Features2Img />,
-    title: 'The Best Furniture Manufacturer of your choice',
+    title: 'The Best Furniture Manufacturer Around',
     subtitle:
-      'Furnitre power is a software as services for multiperpose business management system, expecially for them who are running two or more business exploree the future Furnitre power is a software as services.',
+      "The worlds leading go to for creative, cheap furniture. We promise to create, and sell quality products to everyone. Shop with us and we'll make your dreams come true",
   },
 };
 
@@ -131,49 +131,49 @@ export const newInStore = {
 export const products = {
   title: 'All Products',
   subtitle:
-    'The products we provide only for you as our service are selected from the best products with number 1 quality in the world',
+    'The products the best and only the best the drop dead prices',
   pages: [
     {
       productList: [
         {
           image: <Product1Img />,
           icon: <IoMdAddCircle />,
-          name: 'Ceiling Light',
+          name: 'Decorative Lamp',
           price: 75,
           oldPrice: 82,
         },
         {
           image: <Product2Img />,
           icon: <IoMdAddCircle />,
-          name: 'Wood Chair',
+          name: 'Aesthetic Chair',
           price: 50,
           oldPrice: 70,
         },
         {
           image: <Product3Img />,
           icon: <IoMdAddCircle />,
-          name: 'Papper Cupboard',
+          name: 'Bedside Table',
           price: 105,
           oldPrice: 120,
         },
         {
           image: <Product4Img />,
           icon: <IoMdAddCircle />,
-          name: 'Ole Gundorse Spring',
+          name: 'Leather Arm Chair',
           price: 75,
           oldPrice: 82,
         },
         {
           image: <Product5Img />,
           icon: <IoMdAddCircle />,
-          name: 'Treos Seroes 911',
+          name: 'Rocking Chair',
           price: 200,
           oldPrice: 210,
         },
         {
           image: <Product6Img />,
           icon: <IoMdAddCircle />,
-          name: 'Multi bilderman slibber',
+          name: 'Decorative Chair and Side Table',
           price: 45,
           oldPrice: 50,
         },
@@ -187,7 +187,7 @@ export const products = {
         {
           image: <Product8Img />,
           icon: <IoMdAddCircle />,
-          name: 'Black Forest Series Wood',
+          name: 'Decorative Coffee Table',
           price: 225,
           oldPrice: 240,
         },
@@ -201,7 +201,7 @@ export const products = {
         {
           image: <Product10Img />,
           icon: <IoMdAddCircle />,
-          name: 'Ole Gundorse Spring',
+          name: 'Computer Desk',
           price: 75,
           oldPrice: 82,
         },
@@ -212,42 +212,42 @@ export const products = {
         {
           image: <Product1Img />,
           icon: <IoMdAddCircle />,
-          name: 'Ceiling Light',
+          name: 'Decorative Lamp',
           price: 75,
           oldPrice: 82,
         },
         {
           image: <Product2Img />,
           icon: <IoMdAddCircle />,
-          name: 'Wood Chair',
+          name: 'Aesthetic Chair',
           price: 50,
           oldPrice: 70,
         },
         {
           image: <Product3Img />,
           icon: <IoMdAddCircle />,
-          name: 'Papper Cupboard',
+          name: 'Bedside Table',
           price: 105,
           oldPrice: 120,
         },
         {
           image: <Product4Img />,
           icon: <IoMdAddCircle />,
-          name: 'Ole Gundorse Spring',
+          name: 'Leather Arm Chair',
           price: 75,
           oldPrice: 82,
         },
         {
           image: <Product5Img />,
           icon: <IoMdAddCircle />,
-          name: 'Treos Seroes 911',
+          name: 'Rocking Chair',
           price: 200,
           oldPrice: 210,
         },
         {
           image: <Product6Img />,
           icon: <IoMdAddCircle />,
-          name: 'Multi bilderman slibber',
+          name: 'Decorative Chair and Side Table',
           price: 45,
           oldPrice: 50,
         },
@@ -261,7 +261,7 @@ export const products = {
         {
           image: <Product8Img />,
           icon: <IoMdAddCircle />,
-          name: 'Black Forest Series Wood',
+          name: 'Decorative Coffee Table',
           price: 225,
           oldPrice: 240,
         },
@@ -275,7 +275,7 @@ export const products = {
         {
           image: <Product10Img />,
           icon: <IoMdAddCircle />,
-          name: 'Ole Gundorse Spring',
+          name: 'Computer Desk',
           price: 75,
           oldPrice: 82,
         },
@@ -285,7 +285,7 @@ export const products = {
 };
 
 export const testimonial = {
-  title: 'What people are saying about us',
+  title: "Don't just hear it from us",
   image: <TestimonialImg />,
   persons: [
     {
@@ -293,27 +293,27 @@ export const testimonial = {
       name: 'Josh Smith',
       occupation: 'Manager of The New York Times',
       message:
-        '“They are have a perfect touch for make something so professional ,interest and useful for a lot of people .”',
+        '“They have the perfect touch for making thing so professional, interesting and useful for very cheap.”',
     },
     {
       avatar: <Avatar2Img />,
       name: 'Brandi Johns',
-      occupation: 'Manager of The New York Times',
+      occupation: 'Manager of GOOGLE',
       message:
-        '“They are have a perfect touch for make something so professional ,interest and useful for a lot of people .”',
+        '“Beautiful products, with outstanding quality. Perfect for anyone on a budget.”',
     },
     {
       avatar: <Avatar3Img />,
       name: 'Paula Pfeffer',
-      occupation: 'Manager of The New York Times',
+      occupation: 'Manager of FaceBook',
       message:
-        '“They are have a perfect touch for make something so professional ,interest and useful for a lot of people .”',
+        '“Outstanding quality for very cheap!”',
     },
   ],
 };
 
 export const newsletter = {
-  title: 'Get more discount Off your order',
+  title: 'Get discounts off your orders now',
   subtitle: 'Join our mailing list',
   placeholder: 'Your email address',
   buttonText: 'Shop Now',
